@@ -1,4 +1,4 @@
 foo
 ===
 
-foo foo foo
+test app for trying things out 
